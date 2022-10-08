@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>MY FIRST WEBPAGE</title>
+	</head>
+	<body>
+		<h1 align="center"> MY FIRST WEBPAGE</h1>
+
+		<p>Welcome to my fisrt web page. I am writing this page using a test editor and plain
+		old html.</p>
+		<p>by learning html, I'll be able to create web pages loke a pro...<br>
+		which I am of course.</p>
+
+	</body>
+</html>
